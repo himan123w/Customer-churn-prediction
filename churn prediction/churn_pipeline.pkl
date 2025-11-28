@@ -1,0 +1,1 @@
+/Users/rajpoothimanshusingh369/Desktop/Zidio Development/Customer churn prediction/churn_pipeline.pkl
